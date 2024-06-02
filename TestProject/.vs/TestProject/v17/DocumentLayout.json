@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\controllers\\tab2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\controllers\\tab2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\controllers\\tab1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\controllers\\tab1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\models\\tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\models\\tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|c:\\users\\artem\\documents\\github\\ooptest\\testproject\\testproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0F867F-5226-44B1-9BA1-77C240A5CE9F}|TestProject\\TestProject.csproj|solutionrelative:testproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\appsettings.json",
+              "RelativeDocumentMoniker": "TestProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\appsettings.json",
+              "RelativeToolTip": "TestProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T18:50:14.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TestProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:23:18.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tab2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Controllers\\Tab2Controller.cs",
+              "RelativeDocumentMoniker": "TestProject\\Controllers\\Tab2Controller.cs",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Controllers\\Tab2Controller.cs",
+              "RelativeToolTip": "TestProject\\Controllers\\Tab2Controller.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:10:28.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tab1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Controllers\\Tab1Controller.cs",
+              "RelativeDocumentMoniker": "TestProject\\Controllers\\Tab1Controller.cs",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Controllers\\Tab1Controller.cs",
+              "RelativeToolTip": "TestProject\\Controllers\\Tab1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:10:06.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tab2.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Models\\Tab2.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\Tab2.cs",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Models\\Tab2.cs",
+              "RelativeToolTip": "TestProject\\Models\\Tab2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:42:49.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tab1.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Models\\Tab1.cs",
+              "RelativeDocumentMoniker": "TestProject\\Models\\Tab1.cs",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Models\\Tab1.cs",
+              "RelativeToolTip": "TestProject\\Models\\Tab1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:42:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Context\\Context.cs",
+              "RelativeDocumentMoniker": "TestProject\\Context\\Context.cs",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Context\\Context.cs",
+              "RelativeToolTip": "TestProject\\Context\\Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:02:20.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Program.cs",
+              "RelativeDocumentMoniker": "TestProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Documents\\GitHub\\OOPtest\\TestProject\\TestProject\\Program.cs",
+              "RelativeToolTip": "TestProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:41:34.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
